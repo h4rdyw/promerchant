@@ -24,5 +24,5 @@
 7. Audit Log
 8. Nota untuk dot matrix printer atau non dot matrix
 
-### Support or Contact
-hardyw@ideasq.com
+
+
